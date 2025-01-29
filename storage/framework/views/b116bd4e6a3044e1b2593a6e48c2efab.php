@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\doctor-appointment\resources\views/welcome.blade.php ENDPATH**/ ?>
